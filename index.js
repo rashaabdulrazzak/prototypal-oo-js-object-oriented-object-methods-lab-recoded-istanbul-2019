@@ -4,5 +4,6 @@ function BoardMember (name, homeState, training){
   this.training = training
 }
 BoardMember.prototype.veto (){
-  
+  return `No, I must disagree`
 }
+BoardMember.prototype.
