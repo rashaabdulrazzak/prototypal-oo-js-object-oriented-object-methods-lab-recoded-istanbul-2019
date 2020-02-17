@@ -13,3 +13,6 @@ BoardMember.prototype.doCharity (){
 BoardMember.prototype.releasePressStatement (){
   return `ou will see great things from Scuber.`
 }
+BoardMember.prototype.releasePressStatement (){
+  return `ou will see great things from Scuber.`
+}
