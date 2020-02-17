@@ -8,5 +8,5 @@ BoardMember.prototype.veto (){
 }
 
 BoardMember.prototype.doCharity (){
-  return `You can do that!`
+  return `I like to help people.`
 }
