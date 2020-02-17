@@ -14,5 +14,5 @@ BoardMember.prototype.releasePressStatement (){
   return `You will see great things from Scuber.`
 }
 BoardMember.prototype.sayHi (){
-  return `You will see great things from Scuber.`
+  return `Hi, my name is ${this.name}. I am from ${this.homestat}, and I was trained in ${this.training}`
 }
