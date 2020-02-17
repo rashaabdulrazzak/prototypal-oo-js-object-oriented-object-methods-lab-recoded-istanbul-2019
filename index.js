@@ -7,6 +7,6 @@ BoardMember.prototype.veto (){
   return `No, I must disagree`
 }
 
-BoardMember.prototype.approve (){
+BoardMember.prototype.doCharity (){
   return `You can do that!`
 }
