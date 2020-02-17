@@ -10,6 +10,6 @@ BoardMember.prototype.veto (){
 BoardMember.prototype.doCharity (){
   return `I like to help people.`
 }
-BoardMember.prototype.doCharity (){
+BoardMember.prototype.releasePressStatement (){
   return `I like to help people.`
 }
